@@ -1,0 +1,47 @@
+.body{
+background-image: url('/imagenes/Fondo\ de\ Pantalla\ de\ Escritorio\ en\ Azul\ blanco\ estilo\ Gradiente\ \(1\).png'); /* Cambia por la ruta de tu imagen */
+background-size: cover;
+}
+
+.titulo{
+font-size: 50px;
+color: #909167;
+text-align: center;
+margin: 1%;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.AgregarTarea{
+background-color: #909167;
+padding: 30px;
+border-radius: 12px;
+width: 100%;
+max-width: 400px; 
+text-align: center;
+margin: 30px auto;
+
+}
+
+.AgregarTarea p, h1{
+color: antiquewhite;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.guardar{
+background-color: #fffefe;
+color: #442D1C;
+border-radius: 8px;
+border-color: #ffe0a5;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+::placeholder{
+color: #442D1C;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+hr{
+border-color:#909167;
+}
+
