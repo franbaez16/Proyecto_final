@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url('https://wallpapers.com/images/hd/blank-white-landscape-7sn5o1woonmklx1h.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-box {
+  background-color: rgba(255, 255, 255, 0.95);
+  width: 350px;
+  padding: 30px 20px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+h2 {
+  color: #333;
+}
+
+input {
+  width: 85%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #000000;
+}
+
+button {
+  width: 90%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+    border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
